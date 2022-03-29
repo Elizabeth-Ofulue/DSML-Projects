@@ -13,4 +13,4 @@ This project aims at providing a solution for businesses to categorize their cus
 * Fearure engineering
 * Model testing
 * Model Optimization
-* Model Deployement
+* Model Deployment
